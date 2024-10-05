@@ -32,3 +32,5 @@ Together, these components empower users with a range of functionalities, from r
 accessible text-to-speech format. The overarching goal is to foster independence, accessibility, and inclusivity for visually impaired individuals, showcasing the potential
 of technology to address real-world challenges. This introduction sets the stage for a
 detailed exploration of the project’s design, implementation, and its societal impact.
+
+[Refer to the Project_Report.pdf for more details.](Project_Report.pdf)
