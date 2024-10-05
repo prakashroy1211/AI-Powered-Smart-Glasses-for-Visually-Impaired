@@ -16,3 +16,19 @@ text recognition, providing invaluable assistance in daily tasks and enhancing o
 accessibility and independence. Through the integration of edge AI and innovative
 computing, our system endeavors to revolutionize the experience of visually impaired
 individuals, fostering greater autonomy and inclusion in a visually oriented world.
+## Introduction
+The project titled ”AI Powered Smart Glasses for Visually Impaired” represents a
+groundbreaking initiative at the intersection of cutting-edge technology and social
+impact. This transformative endeavor is driven by the mission to enhance the daily
+lives of individuals facing visual impairments by providing them with an innovative
+assistive device. At its technological core is the NVIDIA Jetson Nano, a powerful
+edge AI chip meticulously chosen to facilitate efficient model deployment. This project
+integrates a suite of hardware components, including a stereo camera, microphone, and
+earphone strategically combined to create a comprehensive solution.
+The smart glasses operate on a robust software foundation that includes BLIP for
+real-time object recognition and image captioning, Tesseract OCR for text extraction,
+BERT for natural language generation, and a sophisticated voice command interface.
+Together, these components empower users with a range of functionalities, from realtime object identification to accurate distance estimation, all delivered through an
+accessible text-to-speech format. The overarching goal is to foster independence, accessibility, and inclusivity for visually impaired individuals, showcasing the potential
+of technology to address real-world challenges. This introduction sets the stage for a
+detailed exploration of the project’s design, implementation, and its societal impact.
