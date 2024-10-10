@@ -37,7 +37,7 @@ Refer [Project_Report](Project_Report.pdf) for more details.
 
 #### Python Modules installed
 SpeechRecognition <br/>
-PyAudio
-Transformers
-gtts
-OpenCV
+PyAudio <br/>
+Transformers <br/>
+gtts <br/>
+OpenCV <br/>
