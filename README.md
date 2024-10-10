@@ -41,3 +41,9 @@ PyAudio <br/>
 Transformers <br/>
 gtts <br/>
 OpenCV <br/>
+
+## Notebook selection based on environment
+This repository contains code for two different environments:
+[main.ipynb][main.ipynb]: This Jupyter notebook runs on regular systems like laptops and PCs. It does not require any additional hardware such as external cameras or sensors. However, it does utilize the system's built-in camera and microphone.
+[jetson_nano.ipynb][jetson_nano.ipynb]: This Jupyter notebook is designed to run on the NVIDIA Jetson Nano. It requires a camera and other sensors to be attached for full functionality.<br/>
+Make sure to use the appropriate notebook based on your hardware setup.
