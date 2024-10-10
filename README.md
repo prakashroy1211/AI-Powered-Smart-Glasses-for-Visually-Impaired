@@ -36,7 +36,7 @@ detailed exploration of the project’s design, implementation, and its societal
 Refer [Project_Report](Project_Report.pdf) for more details.
 
 #### Python Modules installed
-SpeechRecognition
+SpeechRecognition \n
 PyAudio
 Transformers
 gtts
