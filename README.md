@@ -34,3 +34,10 @@ of technology to address real-world challenges. This introduction sets the stage
 detailed exploration of the project’s design, implementation, and its societal impact.
 
 Refer [Project_Report](Project_Report.pdf) for more details.
+
+#### Python Modules installed
+SpeechRecognition
+PyAudio
+Transformers
+gtts
+OpenCV
